@@ -10,7 +10,7 @@ npm start
 
 
 
-![Example](https://github.com/artemmartov/geniusRandomizer/raw/master/public/GIF.gif)
+![Example](https://github.com/artemmartov/Briskly_test/raw/master/src/gif.gif)
 
 
 
